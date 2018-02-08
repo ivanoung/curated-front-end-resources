@@ -33,6 +33,7 @@
 ## Reading list
 
 * [CSS-tricks: Quality daily read for CSS-related techniques](https://css-tricks.com/)
+* [Simple tech](http://www.htmldog.com/techniques/) Good read to kickoff your HTML learning curve
 
 ## Individual Articles
 
@@ -74,8 +75,6 @@
 
 
 ## Font pairing and usage
-
-* []()
 
 
 ## License
