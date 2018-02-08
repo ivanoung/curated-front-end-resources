@@ -7,14 +7,16 @@
 <details>
 
 <!-- toc -->
-
-- [Official Documentation](#officialdocumentation)
-- [Articles](#articles)
+- [Official Documentation](#official-documentation)
+- [Directories](#directories)
+- [Reading List](#reading-list)
 - [Videos](#videos)
-- [Youtube Channels](#youtube)
-- [Examples](#examples)
-- [Slides](#slides)
-
+- [Youtube Channels](#youtube-channels)
+- [Tools](#tools)
+- [Learning Platforms](#learning-platoforms)
+- [Coding Challenges Platforms](#coding-challenges-platforms)
+- [Getting noticed - feature your work](#get-noticed)
+- [Font pairing and usage](#font-paring-and-usage)
 <!-- tocstop -->
 
 </details>
@@ -50,8 +52,6 @@
 * [CSS Grid Playground by Mozilla](https://mozilladevelopers.github.io/playground/)
 * [CSS Grid Template Builder](http://codepen.io/anthonydugois/full/RpYBmy) - A simple tool to build complex CSS Grid templates
 * [Griddy](http://griddy.io) - A nice tool to experiment with CSS Grid Layout
-
-## Editor
 
 
 ## Learning Platforms
