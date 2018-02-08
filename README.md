@@ -56,7 +56,7 @@
 
 ## Learning Platforms
 
-* [FreeCodeCamp - all free, good challenges](https://www.freecodecamp.org/)
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Great challenges for starters
 * [Leet Code](https://leetcode.com/)
 * [CodeWars](https://www.codewars.com/)
 * [Top Coders](https://www.topcoder.com/)
