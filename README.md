@@ -1,4 +1,5 @@
-# curated-front-end-resources
+# Curated Front-end Resources
+## Pain-point oriented
 > A personally curated list of resources for starting in Front-End development.
 
 
