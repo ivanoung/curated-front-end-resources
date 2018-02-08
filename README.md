@@ -8,9 +8,10 @@
 
 <!-- toc -->
 
-- [Documentation](#documentation)
+- [Official Documentation](#officialdocumentation)
 - [Articles](#articles)
-- [Tools](#tools)
+- [Videos](#videos)
+- [Youtube Channels](#youtube)
 - [Examples](#examples)
 - [Slides](#slides)
 
@@ -20,9 +21,17 @@
 
 ## Official Documentation
 
+* [Shileds.io - building tiny 'tabs' on your Github page](https://github.com/valentinogagliardi/awesome-css-grid/edit/master/README.md)
 
+## Directories
 
-## Articles
+* [Rating for Javascript libraries](https://www.javascripting.com/)
+
+## Reading list
+
+* [CSS-tricks: Quality daily read for CSS-related techniques](https://css-tricks.com/)
+
+## Individual Articles
 
 
 ## Videos
@@ -30,12 +39,8 @@
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
 
 ## Youtube Channels
-
-
-## Documentation
-
-* [Shileds.io - building tiny 'tabs' on your Github page](https://github.com/valentinogagliardi/awesome-css-grid/edit/master/README.md)
-
+* [The Code Train - Object Oriented Programming focused](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Fun fun function - Clearance on concepts](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 ## Tools
 
@@ -49,6 +54,27 @@
 ## Editor
 
 
+## Learning Platforms
+
+* [FreeCodeCamp - all free, good challenges](https://www.freecodecamp.org/)
+* [Leet Code](https://leetcode.com/)
+* [CodeWars](https://www.codewars.com/)
+* [Top Coders](https://www.topcoder.com/)
+* [Codingame](https://www.codingame.com/start)
+* [Coderbyte](https://coderbyte.com/)
+* [HackerRank](https://www.hackerrank.com/dashboard)
+
+## Coding Challenges Platforms
+
+
+## Get Noticed
+
+* [#postAboutYourPen - get your pens feature on Codepen](https://codepen.io/rachsmith/project/full/Darjgq/)
+
+
+## Font pairing and usage
+
+* []()
 
 
 ## License
