@@ -36,7 +36,7 @@
 * [Simple tech](http://www.htmldog.com/techniques/) Good read to kickoff your HTML learning curve
 
 ## Individual Articles
-
+* [All you need to know about CSS grid and alignment](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Videos
 
