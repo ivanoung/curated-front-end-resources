@@ -41,10 +41,12 @@
 ## Videos
 
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
+* [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c) Straight to the point, less jargon, best for starters
 
 ## Youtube Channels
 * [The Code Train - Object Oriented Programming focused](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Fun fun function - Clearance on concepts](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
 
 ## Tools
 
@@ -68,6 +70,11 @@
 
 ## Coding Challenges Platforms
 
+## Tutorials
+### Git
+
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+
 
 ## Get Noticed
 
@@ -75,6 +82,9 @@
 
 
 ## Font pairing and usage
+
+## RSS worthy
+* [Sitepoint](https://www.sitepoint.com/) Exclusive deals for members($9/mth) for affliated online lessons
 
 
 ## License
