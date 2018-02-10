@@ -1,6 +1,6 @@
 # Curated Front-end Resources
 ## Pain-point oriented
-> A personally curated list of resources for starting in Front-End development.
+> A personally curated list of resources for starting in Front-End development, curated by Ivan Oung with nothing but bacon greese.
 
 
 #### Contents
@@ -30,7 +30,7 @@
 
 ## Official Documentation
 
-* [Shileds.io](https://github.com/valentinogagliardi/awesome-css-grid/edit/master/README.md) - the little status thing you see on mostly Github
+* [Shileds.io](http://shields.io/) - the little status thing you see on mostly Github
 
 ## Directories
 
@@ -53,6 +53,8 @@
 * [The Code Train - Object Oriented Programming focused](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Fun fun function - Clearance on concepts](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
+## Youtube Playlist
+* ![Angular][angular] - [Angular 2.0 Final- Getting Started](https://www.youtube.com/playlist?list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc)
 
 ## Tools
 
@@ -66,15 +68,21 @@
 
 ## Learning Platforms
 
+### Free
 * [FreeCodeCamp](https://www.freecodecamp.org/) - Great challenges for starters and the most comprehensive and in-depth free tutorial you can ever get
+
+### Paid
+* ![Angular][angular] - [Angular Google Dude](https://ultimateangular.com/) - Good stuff, comprehensive lessons, find discount on [Sitepoint](https://www.sitepoint.com/).
+
+
+
+## Coding Challenges Platforms
 * [Leet Code](https://leetcode.com/)
 * [CodeWars](https://www.codewars.com/)
 * [Top Coders](https://www.topcoder.com/)
 * [Codingame](https://www.codingame.com/start)
 * [Coderbyte](https://coderbyte.com/)
 * [HackerRank](https://www.hackerrank.com/dashboard)
-
-## Coding Challenges Platforms
 
 ## Tutorials
 
@@ -94,9 +102,17 @@
 ## RSS worthy
 * [Sitepoint](https://www.sitepoint.com/) Exclusive deals for members($9/mth) for affliated online lessons
 
+---
+# Targeting specific issues and questions
+
+## How to Git in Window
+* [Stackoverflow answer](https://stackoverflow.com/a/12355120/8011883) - Deal with comments while committing
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ivan Oung](https://github.com/ivanoung/) has waived all copyright and related or neighboring rights to this work.
+
+
+[angular]: https://img.shields.io/badge/Framework-Angular-red.svg
