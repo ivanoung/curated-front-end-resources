@@ -11,16 +11,22 @@
 - [Official Documentation](#official-documentation)
 - [Directories](#directories)
 - [Reading List](#reading-list)
+- [Individual Articles](#individual-articles)
 - [Videos](#videos)
 - [Youtube Channels](#youtube-channels)
 - [Tools](#tools)
 - [Learning Platforms](#learning-platoforms)
 - [Coding Challenges Platforms](#coding-challenges-platforms)
+- [Tutorials](#tutorials)
+    - [Git](#git) - To start version controlling your projects
 - [Getting noticed - feature your work](#get-noticed)
 - [Font pairing and usage](#font-paring-and-usage)
+- [RSS worthy](#rss-worthy) - To keep them in your reading list
 <!-- tocstop -->
 
 </details>
+
+---
 
 ## Official Documentation
 
