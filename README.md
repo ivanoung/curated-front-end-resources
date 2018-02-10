@@ -24,7 +24,7 @@
 
 ## Official Documentation
 
-* [Shileds.io - building tiny 'tabs' on your Github page](https://github.com/valentinogagliardi/awesome-css-grid/edit/master/README.md)
+* [Shileds.io](https://github.com/valentinogagliardi/awesome-css-grid/edit/master/README.md) - the little status thing you see on mostly Github
 
 ## Directories
 
@@ -60,7 +60,7 @@
 
 ## Learning Platforms
 
-* [FreeCodeCamp](https://www.freecodecamp.org/) - Great challenges for starters
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Great challenges for starters and the most comprehensive and in-depth free tutorial you can ever get
 * [Leet Code](https://leetcode.com/)
 * [CodeWars](https://www.codewars.com/)
 * [Top Coders](https://www.topcoder.com/)
@@ -71,6 +71,8 @@
 ## Coding Challenges Platforms
 
 ## Tutorials
+
+
 ### Git
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
@@ -78,7 +80,7 @@
 
 ## Get Noticed
 
-* [#postAboutYourPen - get your pens feature on Codepen](https://codepen.io/rachsmith/project/full/Darjgq/)
+* [#postAboutYourPen](https://codepen.io/rachsmith/project/full/Darjgq/) - Get your pens featured on Codepen
 
 
 ## Font pairing and usage
