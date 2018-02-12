@@ -48,6 +48,7 @@
 
 * [CSS Grid: Bringing true two-dimensional layout to the web](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
 * [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=Y9XZQO1n_7c) Straight to the point, less jargon, best for starters
+* ![Angular][angular] - [Learn Angular 5 in less than 60 Minutes](https://www.youtube.com/watch?v=oa9cnWTpqP8&t=1217s) - Best Angular Tutorial from set up to writting a full workable demo.
 
 ## Youtube Channels
 * [The Code Train - Object Oriented Programming focused](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
