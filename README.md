@@ -42,7 +42,7 @@
 * [Simple tech](http://www.htmldog.com/techniques/) Good read to kickoff your HTML learning curve
 
 ## Individual Articles
-* [All you need to know about CSS grid and alignment](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* ![CSS][css][All you need to know about CSS grid and alignment](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Videos
 
@@ -86,6 +86,7 @@
 * [HackerRank](https://www.hackerrank.com/dashboard)
 
 ## Tutorials
+* [Javascript.info](https://javascript.info/) - In-depth explaination of 99.99% you need to know about vanilla Javascript
 
 
 ### Git
@@ -103,6 +104,11 @@
 ## RSS worthy
 * [Sitepoint](https://www.sitepoint.com/) Exclusive deals for members($9/mth) for affliated online lessons
 
+## Books
+* [Speaking Javascript](http://speakingjs.com/es5/)
+* [Eloquent Javascript](http://eloquentjavascript.net/3rd_edition/)
+
+
 ---
 # Targeting specific issues and questions
 
@@ -117,3 +123,5 @@ To the extent possible under law, [Ivan Oung](https://github.com/ivanoung/) has 
 
 
 [angular]: https://img.shields.io/badge/Framework-Angular-red.svg
+[css]: https://img.shields.io/badge/Language-CSS-yellow.svg
+[Javascript]: https://img.shields.io/badge/Language-Javascript-green.svg
