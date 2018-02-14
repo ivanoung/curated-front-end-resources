@@ -108,6 +108,8 @@
 * [Speaking Javascript](http://speakingjs.com/es5/)
 * [Eloquent Javascript](http://eloquentjavascript.net/3rd_edition/)
 
+## Do you know de way
+* [Javascript - the right way](http://jstherightway.org/)
 
 ---
 # Targeting specific issues and questions
