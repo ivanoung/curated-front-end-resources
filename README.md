@@ -122,6 +122,16 @@
 * [Land-book](https://land-book.com/)
 * [Product Pages](http://www.pages.xyz/type/product) Curated directory of the best product pages
 * [Web Code Tools](https://webcode.tools/css-generator) 
+* [Website Showcase & Inspiration](https://bestwebsite.gallery/)
+* [The Best Web Designers - Freelance Web designers and design agencies](https://www.thebestdesigns.com/designers/)
+* [siteInspire](https://www.siteinspire.com/)
+* [Awwwards](https://www.awwwards.com/) One of the most recognized award for front-end experiences
+* [Creative Bloq](https://www.creativebloq.com/)
+* [CSS Design Awards](https://www.cssdesignawards.com/)
+* [Heynishi](http://www.heynishi.com/?ref=producthunt)
+* [Behance](httsp://www.behance.net)
+* [Free Front End](http://freefrontend.com/) Clean reminder of a simplier age
+* [Codepen.io](https://codepen.io/pens/) One of the largest site with front-end elements with codes
 
 ---
 
