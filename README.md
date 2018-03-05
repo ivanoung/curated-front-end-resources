@@ -43,6 +43,7 @@
 
 ## Individual Articles
 * ![CSS][css][All you need to know about CSS grid and alignment](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* ![CSS][css][Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
 
 ## Videos
 
@@ -112,10 +113,32 @@
 * [Javascript - the right way](http://jstherightway.org/)
 
 ---
+
+## Web page/element design inspriations
+* [Code My UI](https://codemyui.com) Snippets of interesting CSS effects
+* [Freebiesbug](https://freebiesbug.com/) Huge library of curated designs
+* [Codrops](https://tympanus.net/codrops/)
+* [Codyhouse](https://codyhouse.co/library/)
+* [Land-book](https://land-book.com/)
+* [Product Pages](http://www.pages.xyz/type/product) Curated directory of the best product pages
+* [Web Code Tools](https://webcode.tools/css-generator) 
+
+---
+
+## Web Libraries
+* [NucleoApp](https://nucleoapp.com) Icon Organizer & Icon Library
+
+---
+
 # Targeting specific issues and questions
 
 ## How to Git in Window
 * [Stackoverflow answer](https://stackoverflow.com/a/12355120/8011883) - Deal with comments while committing
+
+## CSS 100% font size - 100 of what?
+* [CSS: 100% font size - 100% of what?](https://stackoverflow.com/questions/6803016/css-100-font-size-100-of-what)
+
+---
 
 ## License
 
